@@ -1,6 +1,6 @@
 # UBER 
 
-![image](https://user-images.githubusercontent.com/90493668/152358320-a754546d-c6ed-47ae-bd9e-36b28bf8d712.png) ![image](https://user-images.githubusercontent.com/90493668/152357827-ede74198-1767-41e5-bfc4-3a238a01a4ac.png)
+![image](https://user-images.githubusercontent.com/90493668/152358642-69fe8622-f3f3-41c6-b38d-54ddce2dba00.png) ![image](https://user-images.githubusercontent.com/90493668/152357827-ede74198-1767-41e5-bfc4-3a238a01a4ac.png)
 
 
 Uber is an international company located in 69 countries and around 900 cities around the world. Lyft, on the other hand, operates in approximately 644 cities in the US and 12 cities in Canada alone. However, in the US, it is the second-largest passenger company with a market share of 31%.

@@ -1,3 +1,5 @@
+# Exploratory data analysis
+
 ![image](https://user-images.githubusercontent.com/90493668/174610416-038df709-af98-4f6b-adaf-dd4327f43c74.png)
 
 Exploratory data analysis popularly known as EDA is a process of performing some initial investigations on the dataset to discover the structure and the content of the given dataset. It is often known as Data Profiling. It is an unavoidable step in the entire journey of data analysis right from the business understanding part to the deployment of the models created.
